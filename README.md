@@ -20,7 +20,7 @@ Perfetto per non perdersi l'apertura delle prenotazioni delle tappe del Vespucci
 ## 📦 Requisiti
 
 - Python 3.7+
-- Una bot Telegram attivo
+- Un bot Telegram attivo
 - Il tuo Chat ID
 
 ---
